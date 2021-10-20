@@ -59,15 +59,11 @@ img[src*='camp'] {
     align-items: center;
 }
 
-/* i {
-    width: 20px;
-    color: gray;
-} */
-
 footer {
     margin-top: 40px;
     color: gray;
     align-self: flex-end;
     margin-right: 15px;
     margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
